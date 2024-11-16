@@ -1,0 +1,15 @@
+#btn{
+    text-align: right;
+}
+
+#container{
+    width: 75%;
+    border: 5px solid #000;
+    border-radius: 10px;
+    justify-content: center;
+    padding: 10px;
+}
+
+textarea{
+    width: 100%;
+}
